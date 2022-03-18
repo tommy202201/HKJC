@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T01:13:52.500Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ZBD9Dqbc9gGp8nESxniR" version="16.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-18T01:15:07.409Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="xH45ifiYlKotVMvMfpkO" version="16.4.5" type="github" pages="2">
   <diagram id="pze5LqC1OGc9iw7PmwBF" name="Features">
-    <mxGraphModel dx="4247" dy="2569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3838" dy="2336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,7 +170,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bfC8Gs6EkeiQIpocpHql-33" value="Feature store diagram, v.1&lt;br style=&quot;font-size: 16px;&quot;&gt;18/03/2022" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="20" width="260" height="70" as="geometry" />
+          <mxGeometry x="-200" y="-100" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bfC8Gs6EkeiQIpocpHql-43" value="B. Odds&#xa;(@30,10,3,0 min)" style="shape=table;startSize=60;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="270" y="270" width="391" height="350" as="geometry" />

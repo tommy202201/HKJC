@@ -57,15 +57,12 @@
         data = {nodes: nodes, edges: edges};
 
         var options = {
-                "configure": {
+            "configure": {
                     "enabled": false,
                     "showButton": true
                 },
                 "nodes": {
                     "widthConstraint": 50,
-                    "font":{
-                        "size": 24
-                    }
                 },
                 "edges": {
                     "color": {
@@ -73,7 +70,7 @@
                     },
                     "font": {
                         "background": "#e6fffe",
-                        "size": 20
+                        "size": 18
                     },
                     "smooth": {
                         "enabled": true,
@@ -89,11 +86,11 @@
                 "physics": {
                     "enabled": true,
                     "repulsion": {
-                        "centralGravity": 0.2,
+                        "centralGravity": 0.01,
                         "damping": 0.09,
-                        "nodeDistance": 150,
+                        "nodeDistance": 100,
                         "springConstant": 0.05,
-                        "springLength": 200
+                        "springLength": 150
                     },
                     "solver": "repulsion",
                     "stabilization": {

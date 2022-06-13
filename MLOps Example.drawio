@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T10:09:53.951Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="QAtMDNUPYVaYrbnDoSOw" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T10:10:29.394Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="7BDmkII_XTeMBEitEV01" version="18.1.2" type="github">
   <diagram id="DOHwIMiz50qAoAU_zNFB" name="Page-1">
     <mxGraphModel dx="3080" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,10 +72,10 @@
         <mxCell id="9IO7hIec0zjEXyQcJtiJ-18" value="Cold Storage&lt;br&gt;Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9IO7hIec0zjEXyQcJtiJ-21" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="9IO7hIec0zjEXyQcJtiJ-21" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="390" y="250" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9IO7hIec0zjEXyQcJtiJ-23" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="9IO7hIec0zjEXyQcJtiJ-23" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="620" y="90" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9IO7hIec0zjEXyQcJtiJ-25" value="UI" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.ipad7inch;strokeColor=#c0c0c0;fontSize=18;" vertex="1" parent="1">

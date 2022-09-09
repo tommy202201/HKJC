@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T06:47:10.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ykQXT1X9bp-eVI-PcGCH" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T06:56:27.394Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="7gaKDAyjS3W353yXJy9s" version="20.2.8" type="github">
   <diagram id="_OYlfLiKj20trFkd4ubV" name="Page-1">
     <mxGraphModel dx="1426" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,19 +90,19 @@
           <mxGeometry x="70" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ToE4UrAM6BWn20umVzim-26" value="Data Cleaning" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ToE4UrAM6BWn20umVzim-28" value="Aggregation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="405" width="120" height="60" as="geometry" />
+          <mxGeometry x="1160" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ToE4UrAM6BWn20umVzim-25" value="Data Validation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ToE4UrAM6BWn20umVzim-31" value="Schema Match" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ToE4UrAM6BWn20umVzim-34" value="Index Recalculation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1160" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ToE4UrAM6BWn20umVzim-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="ToE4UrAM6BWn20umVzim-40" target="ToE4UrAM6BWn20umVzim-44">
           <mxGeometry relative="1" as="geometry">
@@ -126,9 +126,6 @@
               <mxPoint x="430" y="680" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ToE4UrAM6BWn20umVzim-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="ToE4UrAM6BWn20umVzim-40" target="ToE4UrAM6BWn20umVzim-45">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ToE4UrAM6BWn20umVzim-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="ToE4UrAM6BWn20umVzim-40" target="ToE4UrAM6BWn20umVzim-55">
           <mxGeometry relative="1" as="geometry" />
@@ -155,22 +152,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ToE4UrAM6BWn20umVzim-45" value="Model Hosting Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="ToE4UrAM6BWn20umVzim-45" value="Model Hosting Services" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="650" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ToE4UrAM6BWn20umVzim-47" value="Log" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="400" y="590" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ToE4UrAM6BWn20umVzim-50" value="Tracking" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="450.2" y="830" width="60" height="30" as="geometry" />
+        <mxCell id="ToE4UrAM6BWn20umVzim-50" value="ML Flow&lt;br&gt;Tracking" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440.1" y="840" width="79.8" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ToE4UrAM6BWn20umVzim-51" value="Models" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="680" y="830" width="60" height="30" as="geometry" />
+        <mxCell id="ToE4UrAM6BWn20umVzim-51" value="ML Flow&lt;br&gt;Models" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="675" y="840" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ToE4UrAM6BWn20umVzim-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;" edge="1" parent="1" source="ToE4UrAM6BWn20umVzim-55" target="ToE4UrAM6BWn20umVzim-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ToE4UrAM6BWn20umVzim-63" value="selected&lt;br&gt;model" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="ToE4UrAM6BWn20umVzim-58">
+        <mxCell id="ToE4UrAM6BWn20umVzim-63" value="selected&lt;br&gt;models" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="ToE4UrAM6BWn20umVzim-58">
           <mxGeometry x="0.4215" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -183,6 +180,12 @@
         </mxCell>
         <mxCell id="ToE4UrAM6BWn20umVzim-67" value="Model Evaluation Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="540" y="880" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ToE4UrAM6BWn20umVzim-70" value="Feature&lt;br&gt;Labelling" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ToE4UrAM6BWn20umVzim-72" value="ML Flow Projects" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="790.1" y="310" width="79.8" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

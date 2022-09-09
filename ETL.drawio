@@ -1,16 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T04:03:03.003Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="QMA1mT9s830wNs2KgeTO" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T05:52:14.298Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ho6kI2Sf8zTfe6YXb7E4" version="20.2.8" type="github">
   <diagram id="_OYlfLiKj20trFkd4ubV" name="Page-1">
     <mxGraphModel dx="1426" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ToE4UrAM6BWn20umVzim-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="270" y="350" width="260" height="210" as="geometry" />
+          <mxGeometry x="280" y="350" width="260" height="210" as="geometry" />
         </mxCell>
         <mxCell id="ToE4UrAM6BWn20umVzim-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="ToE4UrAM6BWn20umVzim-1" target="ToE4UrAM6BWn20umVzim-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ToE4UrAM6BWn20umVzim-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="ToE4UrAM6BWn20umVzim-1" target="ToE4UrAM6BWn20umVzim-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ToE4UrAM6BWn20umVzim-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -31,7 +28,7 @@
         <mxCell id="ToE4UrAM6BWn20umVzim-4" value="crawlers" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="432.5" y="240" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ToE4UrAM6BWn20umVzim-7" value="Race Horse" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="ToE4UrAM6BWn20umVzim-7" value="Race" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="610" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ToE4UrAM6BWn20umVzim-8" value="HJT Aggregate" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
@@ -43,14 +40,17 @@
         <mxCell id="ToE4UrAM6BWn20umVzim-10" value="Index" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="760" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ToE4UrAM6BWn20umVzim-11" value="Visualization service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="425" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ToE4UrAM6BWn20umVzim-14" value="OSS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="270" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ToE4UrAM6BWn20umVzim-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="ToE4UrAM6BWn20umVzim-16" target="ToE4UrAM6BWn20umVzim-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ToE4UrAM6BWn20umVzim-16" value="feature&lt;br&gt;store" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="320" y="415" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ToE4UrAM6BWn20umVzim-20" value="Visualization service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="425" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

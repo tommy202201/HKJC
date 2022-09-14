@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T02:13:46.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ccxX9ITWVV352gIfMUfw" version="20.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-14T02:17:04.324Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="lb0CNHJDdYyXk6-bTmOK" version="20.2.8" type="github" pages="2">
   <diagram id="_OYlfLiKj20trFkd4ubV" name="Page-1">
     <mxGraphModel dx="3080" dy="2489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -318,7 +318,7 @@
         <mxCell id="_EHyVhy-0C-5i52qK-ew-10" value="Data Transformation Services" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="130" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EHyVhy-0C-5i52qK-ew-11" value="1. Actively subscribe topic and check for new events&lt;br&gt;2. Check if schema matched with &quot;data dict&quot; on oss&lt;br&gt;3. If yes, then perform validation and cleaning&lt;br&gt;4. Transform to csv and store in OSS (append mode)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="_EHyVhy-0C-5i52qK-ew-11" value="1. Recalculate ratios / index for ML&lt;br&gt;2. Aggregate and groupby for different stats&lt;br&gt;3. Feature labelling for odds category / other groupings&lt;br&gt;4. One hot encoding for string fields (e.g. race venue, horse gears)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="278" y="1230" width="567" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_EHyVhy-0C-5i52qK-ew-13" value="One Hot Encoding" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
@@ -362,6 +362,12 @@
         </mxCell>
         <mxCell id="_EHyVhy-0C-5i52qK-ew-32" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Divided by domains&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="930" y="1070" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_EHyVhy-0C-5i52qK-ew-34" value="Table Merging Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EHyVhy-0C-5i52qK-ew-35" value="1. Matching timestamps (may have millisecond diff)&lt;br&gt;2. Matching schema (for merged table) with data dict on OSS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1340" width="567" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

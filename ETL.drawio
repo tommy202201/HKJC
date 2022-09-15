@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T07:06:14.614Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Uu2G24GFBnRZQRRuaC01" version="20.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-15T01:31:35.921Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="jlxhYIPr4vknAmwnmuBO" version="20.2.8" type="github" pages="2">
   <diagram id="_OYlfLiKj20trFkd4ubV" name="Architecture">
     <mxGraphModel dx="3080" dy="2489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,6 +269,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gCWOhdDdjhIvX0EPdZRK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.855;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;strokeColor=#000000;fontSize=16;fontColor=#000000;startArrow=none;startFill=0;" edge="1" parent="1" source="ToE4UrAM6BWn20umVzim-99" target="ToE4UrAM6BWn20umVzim-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCWOhdDdjhIvX0EPdZRK-11" value="event&lt;br&gt;data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#000000;" vertex="1" connectable="0" parent="gCWOhdDdjhIvX0EPdZRK-10">
+          <mxGeometry x="-0.0207" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ToE4UrAM6BWn20umVzim-99" value="Data Cleaning Service(s)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="700" y="202.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -319,7 +327,7 @@
           <mxGeometry x="278" y="1120" width="567" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_EHyVhy-0C-5i52qK-ew-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-light-vol-2/256/file-csv-light-128.png;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="240" width="40" height="40" as="geometry" />
+          <mxGeometry x="612.4" y="245" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_EHyVhy-0C-5i52qK-ew-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/filetype-json-128.png;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="500" y="40" width="38" height="38" as="geometry" />
@@ -408,6 +416,9 @@
         </mxCell>
         <mxCell id="gCWOhdDdjhIvX0EPdZRK-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://solace.com/wp-content/uploads/2019/01/Solace-logo-green.png;" vertex="1" parent="1">
           <mxGeometry x="532.4" y="-138.92" width="120" height="33.23" as="geometry" />
+        </mxCell>
+        <mxCell id="gCWOhdDdjhIvX0EPdZRK-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/filetype-json-128.png;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="152" width="38" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

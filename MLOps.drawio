@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T06:18:13.576Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1b2Yyl5vb6GaNUVjML_l" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T06:29:50.909Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="NXfZv9u2Lix8XodTkzQL" version="20.5.1" type="github">
   <diagram id="a7gbFWGGzf8Zfr4ufiJH" name="Page-1">
     <mxGraphModel dx="1426" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,23 +61,35 @@
         <mxCell id="3eLNF5xgnCl6N7QSNLwA-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="480" width="410" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="3eLNF5xgnCl6N7QSNLwA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3eLNF5xgnCl6N7QSNLwA-15" target="3eLNF5xgnCl6N7QSNLwA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3eLNF5xgnCl6N7QSNLwA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3eLNF5xgnCl6N7QSNLwA-15" target="3eLNF5xgnCl6N7QSNLwA-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3eLNF5xgnCl6N7QSNLwA-15" value="Data Processor 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="582.75" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3eLNF5xgnCl6N7QSNLwA-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.821;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3eLNF5xgnCl6N7QSNLwA-16" target="3eLNF5xgnCl6N7QSNLwA-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3eLNF5xgnCl6N7QSNLwA-16" value="Data Processor 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3eLNF5xgnCl6N7QSNLwA-17" value="Data Processor 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="661.5" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3eLNF5xgnCl6N7QSNLwA-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png;" vertex="1" parent="1">
-          <mxGeometry x="960" y="526.35" width="200" height="77.31" as="geometry" />
+          <mxGeometry x="661.5" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3eLNF5xgnCl6N7QSNLwA-19" value="Publishers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3eLNF5xgnCl6N7QSNLwA-20" value="Subscribers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="526.35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3eLNF5xgnCl6N7QSNLwA-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/1072/1*TzRyGCOSa4aZhda3B2H-qg.png;" vertex="1" parent="1">
+          <mxGeometry x="940" y="500.11" width="360" height="119.77" as="geometry" />
+        </mxCell>
+        <mxCell id="3eLNF5xgnCl6N7QSNLwA-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.kubeflow.org/docs/images/pipelines-architecture.png;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="110" width="980.48" height="990" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
